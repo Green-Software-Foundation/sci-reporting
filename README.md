@@ -1,12 +1,15 @@
-# GSF Standards WG Template
+# GSF SCI-Reporting
 
 ## Scope
 
-[Add here]
+Creating the infrastructure, and processes to store, host, and publicly report SCI scores, and other related reporting requirements within the SCI specification.
+This project enables the GSF to achieve its mission by creating tooling for building green software, and ensuring that sustainability is a core priority for software teams.
+ - This project does not define the software boundaries of an SCI application – that is contained within the SCI Open Ontology.
+ - This project does not mandate the reporting requirements – that is contained within the Software Carbon Intensity (SCI) specification.
 
 ## Appointments 
-- Chair/Project lead - name (Company)
-
+- Chair/Project lead - Chris Lloyd-Jones (Avanade)
+- [Project members](https://greensoftware.foundation/projects/sci-reporting)
 
 ## Projects
 - [Software Carbon Intensity (SCI) Specification](https://github.com/Green-Software-Foundation/swg_software_carbon_intensity/tree/dev)
@@ -14,8 +17,8 @@
 ## Resources
 
 * [Meeting Schedule](tbc) (Members Only)
-* [Shared Google Drive](tbc) (Members Only)
-* [Slack Channel](tbc)(Members Only)
+* [Shared Google Drive](https://drive.google.com/drive/folders/1zHLA0itlhq5Cf1WS-TxchLkqqA_dZoNp?usp=sharing) (Members Only)
+* [Slack Channel](https://greensoftwarefdn.slack.com/archives/C02UZRH5QJ3)(Members Only)
 * [WG operations and process guidelines](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md)
 
 ## Copyright
