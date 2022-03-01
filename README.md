@@ -11,6 +11,14 @@ This project enables the GSF to achieve its mission by creating tooling for buil
  - This project does not define the software boundaries of an SCI application – that is contained within the SCI Open Ontology.
  - This project does not mandate the reporting requirements – that is contained within the Software Carbon Intensity (SCI) specification.
 
+## Milestones
+The following milestones are planned:
+1.  Design phase, due by _March 11 2022_
+2.  Planning phase, due by _April 1st 2022_
+3. MVP implementation, no due date set yet, to be determined based on estimation at the planning phase.
+
+Multiple deliverables have been planned for each phase, and can be found on our [project board](https://github.com/Green-Software-Foundation/sci-reporting/projects/1), [tagged with the 'epic' label](https://github.com/Green-Software-Foundation/sci-reporting/projects/1?card_filter_query=label%3Aepic).
+
 ## Appointments
 - Chair/Project lead - Chris Lloyd-Jones (Avanade)
 - [Project members](https://greensoftware.foundation/projects/sci-reporting)
