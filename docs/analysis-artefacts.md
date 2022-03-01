@@ -2,7 +2,7 @@
 # Analyis Artefacts
 ## Sequence Diagram
 
-![](./mermaid-diagrams/process-flow.svg)
+![](./mermaid-diagrams/sequence-diagram.svg)
 
 ## As-is User Journey
 
