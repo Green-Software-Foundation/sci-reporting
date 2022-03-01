@@ -1,0 +1,20 @@
+sequenceDiagram
+
+participant S as Software Being Measured
+participant B as Benchmark
+actor U as User
+participant G as GitHub
+participant D as Report Store
+
+Note right of G: Could be another tool or API
+
+U->B:Create benchmark
+U->G:Commits current benchmark
+note right of G: Hash Generated for the Commit
+U->S:Runs benchmark against software
+U->G:Makes a report referencing the benchmark used
+G-->D:save the commit ID to our reporting tool, whatever that is
+note over D:Report store could also be GitHub
+U->B:Changes benchmark
+U->G:Makes new report, attaches new benchmark commit ID
+G-->D:save the updated commit ID to our reporting tool, to show benchmark has changed
