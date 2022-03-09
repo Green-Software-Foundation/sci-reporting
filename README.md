@@ -13,7 +13,7 @@ This project enables the GSF to achieve its mission by creating tooling for buil
 
 ## Milestones
 The following milestones are planned:
-1.  Design phase, due by _March 11 2022_
+1.  Design phase, due by _March 25th 2022_
 2.  Planning phase, due by _April 1st 2022_
 3. MVP implementation, no due date set yet, to be determined based on estimation at the planning phase.
 
@@ -29,7 +29,7 @@ Multiple deliverables have been planned for each phase, and can be found on our 
 ## Resources
 
 * This project meets on an as-needed basis, with meetings driven via [discussion](https://github.com/Green-Software-Foundation/sci-reporting/discussions) on GitHub. Meetings are announced on the [Slack Channel](https://greensoftwarefdn.slack.com/archives/C02UZRH5QJ3)(Members Only).
-* The next meeting has been posted for March 9th 2022.
+* The next meeting has been posted for March 23rd 2022.
 * [Shared Google Drive](https://drive.google.com/drive/folders/1zHLA0itlhq5Cf1WS-TxchLkqqA_dZoNp?usp=sharing) (Members Only)
 * [Slack Channel](https://greensoftwarefdn.slack.com/archives/C02UZRH5QJ3)(Members Only)
 * [WG operations and process guidelines](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md)
