@@ -4,23 +4,17 @@
 
 > Reporting the Software Carbon Intensity (SCI) scores of software, and related reporting requirements within the SCI specification.
 
-This project is creating the infrastructure, and processes to store, host, and publicly report SCI scores, and other related reporting requirements within the SCI specification.
+This project is creating the requirements, infrastructure, and processes to store, host, and publicly report SCI scores, and other requirements within the SCI specification.
 
-This project enables the GSF to achieve its mission by creating tooling for building green software, and ensuring that sustainability is a core priority for software teams, by driving a bias to action, through making SCI scores measurable and visible.
+This project enables the GSF to achieve its mission by creating reporting standards and tooling for building green software, and ensuring that sustainability is a core priority for software teams, by driving a bias to action, through making SCI scores measurable and visible.
 
  - This project does not define the software boundaries of an SCI application – that is contained within the SCI Open Ontology.
+ - This project defines the reporting requirements.
  - This project does not mandate the reporting requirements – that is contained within the Software Carbon Intensity (SCI) specification.
 
-## Milestones
-The following milestones are planned:
-1.  Design phase, due by _March 25th 2022_
-2.  Planning phase, due by _April 1st 2022_
-3. MVP implementation, no due date set yet, to be determined based on estimation at the planning phase.
-
-Multiple deliverables have been planned for each phase, and can be found on our [project board](https://github.com/Green-Software-Foundation/sci-reporting/projects/1), [tagged with the 'epic' label](https://github.com/Green-Software-Foundation/sci-reporting/projects/1?card_filter_query=label%3Aepic).
 
 ## Appointments
-- Chair/Project lead - Chris Lloyd-Jones (Avanade)
+- Chair/Project lead - Chris Lloyd-Jones (Avanade) _currently awaiting a replacement chair_
 - [Project members](https://greensoftware.foundation/projects/sci-reporting)
 
 ## Projects
@@ -28,8 +22,7 @@ Multiple deliverables have been planned for each phase, and can be found on our 
 
 ## Resources
 
-* This project meets on an as-needed basis, with meetings driven via [discussion](https://github.com/Green-Software-Foundation/sci-reporting/discussions) on GitHub. Meetings are announced on the [Slack Channel](https://greensoftwarefdn.slack.com/archives/C02UZRH5QJ3)(Members Only).
-* The next meeting has been posted for March 23rd 2022.
+* This project meets as part of the Standards WG - https://github.com/Green-Software-Foundation/standards_wg
 * [Shared Google Drive](https://drive.google.com/drive/folders/1zHLA0itlhq5Cf1WS-TxchLkqqA_dZoNp?usp=sharing) (Members Only)
 * [Slack Channel](https://greensoftwarefdn.slack.com/archives/C02UZRH5QJ3)(Members Only)
 * [WG operations and process guidelines](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md)
