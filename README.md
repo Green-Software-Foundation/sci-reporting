@@ -9,7 +9,7 @@ This project is creating the requirements, infrastructure, and processes to stor
 This project enables the GSF to achieve its mission by creating reporting standards and tooling for building green software, and ensuring that sustainability is a core priority for software teams, by driving a bias to action, through making SCI scores measurable and visible.
 
  - This project does not define the software boundaries of an SCI application – that is contained within the SCI Open Ontology.
- - This project defines the reporting requirements.
+ - This project defines the reporting requirements - currently contained in the [reporting requirements file](./reporting_requirements.md).
  - This project does not mandate the reporting requirements – that is contained within the Software Carbon Intensity (SCI) specification.
 
 
