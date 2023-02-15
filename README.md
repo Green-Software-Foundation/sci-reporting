@@ -51,4 +51,4 @@ Standard WG projects operate under the W3C Patent Mode.
 5. See [The Way we Work](https://github.com/Green-Software-Foundation/standards_wg/blob/main/the_way_we_work.md) for futher details.
 
 ## Help
-Email [helpdesk@greensoftware.io](mailto:helpdesk@greensoftware.io) for support, or raise a [new Issue](https://github.com/Green-Software-Foundation/sci-reporting/issues/new) if your query is related to this project.
+Raise a [new Issue](https://github.com/Green-Software-Foundation/sci-reporting/issues/new) if your query is related to this project.
